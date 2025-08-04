@@ -3,15 +3,15 @@
 
 Project Python Foundations: FoodHub Data Analysis
 
-Situation:
+Project Overview:
 
  FoodHub, a New York-based food delivery aggregator, needed insights from their customer order data to improve delivery performance, restaurant partnerships, and customer satisfaction.
  
-Task:
+Objective:
 
- Was assigned to perform comprehensive data analysis on customer orders to extract insights about delivery trends, top restaurants, revenue estimates, and to identify strategies for improved customer experience and operational efficiency.
+ To perform comprehensive data analysis on customer orders to extract insights about delivery trends, top restaurants, revenue estimates, and to identify strategies for improved customer experience and operational efficiency.
 
-🔧 Action:
+🔧 Approach & Implementation:
 
 1. Data Cleaning and Preparation
    
@@ -69,7 +69,7 @@ Proposed operational improvements based on weekend delivery delays.
 
 
 
-✅ Result:
+✅ Results:
 
 1. Operational Insights
    
